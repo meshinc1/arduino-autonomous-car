@@ -29,11 +29,22 @@ the front wheels.
 
 https://user-images.githubusercontent.com/63004334/131267734-36d6d62d-99a6-4d6e-97c9-5c637e625004.mp4
 
+The robot is able to maintain its heading traveling in a straight line—stopping and waiting upon encountering an obstacle. 
+Movement is resumed when the obstacle is removed.
+
 ### Milestone 2
 
 https://user-images.githubusercontent.com/63004334/131267668-aa9b7302-38d9-43cc-9d87-d7bb65c9efd6.mp4
 
+The robot continuously traverses a room by:
+  1. Traveling straight until an obstacle is encountered
+  2. Reversing a preconfigured distance
+  3. Conducting a left turn (and returning to step 1)
+
 ### Technologies
+  - Arduino Mega 2560
+  - Arduino 1.8.15
+  - Processing 4.0b1 (Java)
 
 ### Sources
 
