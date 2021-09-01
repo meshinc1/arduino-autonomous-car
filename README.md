@@ -42,9 +42,9 @@ The robot continuously traverses a room by:
   3. Conducting a left turn (and returning to step 1)
 
 ### Technologies
-  - Arduino Mega 2560
-  - Arduino 1.8.15
-  - Processing 4.0b1 (Java)
+  - [Arduino Mega 2560 Rev3](https://store.arduino.cc/products/arduino-mega-2560-rev3)
+  - [Arduino 1.8.15](https://www.arduino.cc/en/software)
+  - [Processing 4.0b1 (Java)](https://processing.org/download)
 
 ### Sources
 
