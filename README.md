@@ -49,3 +49,8 @@ The robot continuously traverses a room by:
 ### Sources
 
 The following are websites from which I drew inspiration or learned how to use various Arduino libraries:
+
+  - [Using Ultrasonic Sensor](https://www.tutorialspoint.com/arduino/arduino_ultrasonic_sensor)
+  - [Using MPU-9250 with Arduino](https://robojax.com/learn/arduino/?vid=robojax-MPU9250)
+  - [Using LiquidCrystal Library](https://www.makerguides.com/character-lcd-arduino-tutorial/)
+  - [Interfacing Arduino with Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
